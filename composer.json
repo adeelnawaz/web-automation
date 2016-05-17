@@ -1,0 +1,22 @@
+{
+  "name": "Web Automation Demo",
+  "type": "project",
+  "license": "MIT",
+  "description": "A demonstration of commonly used tools in web development",
+  "homepage": "http://localhost/web-automation/",
+  "author": {
+    "name": "Adeel Nawaz",
+    "email": "adeel.nawaz@coeus-solutions.de",
+    "homepage": "https://github.com/adeelnawaz"
+  },
+  "keywords": [
+    "composer", "gulp", "bower", "demo"
+  ],
+  "require": {
+    "php": ">=5.5",
+    "vlucas/phpdotenv": "^2.0.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.8"
+  }
+}
